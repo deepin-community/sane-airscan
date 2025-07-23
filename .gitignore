@@ -1,0 +1,17 @@
+# http://www.gnu.org/software/automake
+
+libsane-airscan.so.1
+airscan-discover
+test
+test-decode
+test-multipart
+test-uri
+
+tags
+*.swp
+core
+core.*
+*.orig
+
+objs/*
+
